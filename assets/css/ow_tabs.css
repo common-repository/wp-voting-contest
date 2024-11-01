@@ -1,0 +1,52 @@
+@font-face{font-weight:400;font-style:normal;font-family:owfontawesome;src:url(../fonts/fontawesome/fontawesome-webfont.eot?u58ytb);src:url(../fonts/fontawesome/fontawesome-webfont.eot?#iefixu58ytb) format("embedded-opentype"),url(../fonts/fontawesome/fontawesome-webfont.woff?u58ytb) format("woff"),url(../fonts/fontawesome/fontawesome-webfont.ttf?u58ytb) format("truetype"),url(../fonts/fontawesome/fontawesome-webfont.svg?u58ytb#owfontawesome) format("svg")}
+.owvotingicon::before{z-index:10;display:inline-block;margin:0 .2em 0 .4em;vertical-align:middle;text-transform:none;font-weight:400;font-variant:normal;font-size:22px;font-family:owfontawesome;line-height:1;speak:none;-webkit-backface-visibility:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-style:normal}
+.owicon-add:before{content:"\f0fe"}
+.owicon-move:before{content:"\f0b2"}
+.owicon-upload:before{content:"\f0ee"}
+.owicon-download:before{content:"\f0ed"}
+.owicon-list-alt:before{content:"\f022"}
+.owicon-edit:before{content:"\f044"}
+.owicon-users:before{content:"\f0f0"}
+.owfa-camera:before{content:"\f030"}
+.owfa-eye:before{content:"\f06e"}
+.owfa-heart:before{content:"\f004"}
+.owfa-link:before{content:"\f0c1"}
+.owfa-share:before{content:"\f064"}
+.owfa-color:before{content:"\f03e"}
+.owfa-list:before{content:"\f03a"}
+.owfa-share-alt:before{content:"\f1e0"}
+.owfa-strikethrough:before{content:"\f0cc"}
+.owfa-eraser:before{content:"\f12d"}
+.owfa-sort-numeric-asc:before{content:"\f162"}
+.owfa-email:before{content:"\f003"}
+.owfa-mobile:before{content:"\f10b";font-size:34px}
+.owfa-gallery:before{content:"\f03e"}
+.owfa-login:before{content:"\f2f6"}
+.owfa-entry:before{content:"\f067"}
+.owfa-paypal:before{content:"\f1ed"}
+.owfa-stripe:before{content:"\f1f5"}
+.owfa-single:before{content:"\f0f6"}
+.owfa-popup:before{content:"\f045"}
+.owfa-video-extension:before{content:"\f008"}
+.owfa-compass:before{content:"\f14e";padding-right:5px}
+.owfa-university:before{content:"\f19c";font-size:100%;padding-right:5px}
+.owfa-desc:before{content:"\f15e";font-size:115%;padding-right:5px}
+.owfa-voting:before{content:"\f087";font-size:115%;padding-right:5px}
+.owfa-login:before{content:"\f090";padding-right:5px}
+.owfa-buyvotes:before{content:"\f0d6"}
+th.column-image{width:200px}
+td.column-image .responsive_video{width:200px!important}
+td.column-image .video-js.vjs-16-9{z-index:9999}
+td.column-image .responsive_video iframe{position:relative;top:0;width:200px;height:120px}
+td.column-info span.ow_admininfo{font-family:"Open Sans";padding-left:5px;padding-top:10px;display:inline-block}
+td.column-info i.owvotingicon:before{font-size:16px}
+th .sorting-indicator{margin-top:11px;margin-left:11px}
+.settings_content label,.owt-accordion ul li>a,td a.row-title,td.column-contest_category a,.ow_settings_menu ul li a .wpvc_links,.settings_content h4,.settings_content th,.settings_content h3{font-family:"Open Sans",sans-serif;font-weight:600;font-size:14px}
+.widefat tbody th.check-column,.widefat tfoot th.check-column,.widefat thead th.check-column,.widefat thead th.check-column{padding-top:15px}
+td.manual_votes.column-manual_votes{padding-left:1.5%;padding-top:3%;font-family:"Open Sans",sans-serif;font-weight:600}
+td.votes.column-votes,td.contest_category.contest_category{padding-left:1%;padding-top:1%;font-size:14px;font-weight:700;font-family:"Open Sans",sans-serif;font-weight:600}
+.owvotingicon{width:25px;display:inline-block}
+.owicon-date:before{content:"\f133"}
+.owicon-authors:before{content:"\f007"}
+.owicon-imgcontest:before{content:"\f15b"}
+.contest_category-photo-contest td{vertical-align:middle}
